@@ -23,29 +23,29 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link active links" aria-current="page" href="#">Home</a>
+          <a class="nav-link active links test" aria-current="page" href="index.php">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link links" href="#">Features</a>
+          <a class="nav-link links test" href="#">Features</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link links" href="#">Integrations</a>
+          <a class="nav-link links test" href="#">Integrations</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link links" href="#">Pricing</a>
+          <a class="nav-link links test" href="#">Pricing</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link links" href="#">Company</a>
+          <a class="nav-link links test" href="#">Company</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link links" href="#">Blog</a>
+          <a class="nav-link links test" href="#">Blog</a>
         </li>
         <li class="nav-item">
-          <a id="demo" class="nav-link " href="#">Get a demo</a>
+          <a id="demo" class="nav-link test " href="#">Get a demo</a>
         </li>
         <li class="nav-item">
             <img src="images/login.png" alt="login">
-          <a class="nav-link links" href="#">Login</a>
+          <a class="nav-link links test" href="#">Login</a>
         </li>
       </ul>
     </div>

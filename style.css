@@ -17,3 +17,7 @@
     border-width: thin;
     border: solid #2F70FE ; 
 }
+
+.test{
+    display: inline!important;
+}
