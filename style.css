@@ -14,10 +14,47 @@
     font-family: "Circular Std Medium";
     font-size: 16px;
     color: #2F70FE;
-    border-width: thin;
-    border: solid #2F70FE ; 
+    border: solid #2F70FE 1px; 
+   
 }
 
-.test{
+.nav-link{
     display: inline!important;
+}
+
+#navbarNav{
+    justify-content: flex-end;
+   
+}
+
+.main{
+    margin-left: 50px;
+    max-width: 1150px;
+}
+
+.bg-footer{
+    background-color: #000000 ;
+    color: #fff;
+    padding-top: 80px;
+    padding-bottom: 30px;
+}
+
+.links-footer{
+    display:flex;
+    flex-direction: column;
+
+}
+
+.conteneur{
+    display:flex;
+    justify-content: space-between;
+    max-width: 936px;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+
+.copyright{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
 }
