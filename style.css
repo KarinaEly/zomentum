@@ -63,22 +63,21 @@
 
 .banniere{
     width: 50px;
-}
-
-.banniere{
-    position: relative;
+    max-width: 10000px;
+    margin-right: 150px;
+    margin-left:150px;
     text-align: center;
-} 
+}
 
 
 .texte_centrer {
     position: absolute;
     top: 50%;
-    bottom: 500%
-    left: 50%;
+    bottom: 50%
+    center:auto
     right: 50px
     transform: translate(-50%, -50%);
-    color:#fff
+    color:#ffff;
   }
   
   
@@ -90,9 +89,8 @@
     font-size: 40px;
     
 
-  .carree{
-      width: 20px;
-      height: 20px;
-  }
- 
+
+ .triangles1{
+     margin-right: auto;
+ }
  

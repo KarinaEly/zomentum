@@ -8,6 +8,17 @@
 
 </div>
 
+
+<div class="triangles1">
+  <img src="images/triangles.png" alt="image trangles vert">
+  
+</div>
+
+<div class="triangles2">
+  <img src="images/triangles.png" alt="image trangles vert">
+  
+</div>
+
 <div class="centrer">
   
   <p>List.Sell.Grow</p>
@@ -15,7 +26,7 @@
 
 <div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
-    <div class="card h-100">
+    <div class="card h-auto">
       <img src="images/rond1.png" class="carree" alt="pictogramme">
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
@@ -27,7 +38,7 @@
     </div>
   </div>
   <div class="col">
-    <div class="card h-100">
+    <div class="card h-auto">
       <img src="images/rond2.png" class="loupe" alt="pictogramme loupe">
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
@@ -39,7 +50,7 @@
     </div>
   </div>
   <div class="col">
-    <div class="card h-100">
+    <div class="card h-autos">
       <img src="images/rond3.png" class="stats" alt="pictogramme statistique">
       <div class="card-body">
         <h5 class="card-title">Card title</h5>
