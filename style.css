@@ -57,4 +57,44 @@
     display: flex;
     justify-content: space-between;
     padding-top: 40px;
+
+    
 }
+
+.banniere{
+    width: 50px;
+}
+
+.banniere{
+    position: relative;
+    text-align: center;
+} 
+
+
+.texte_centrer {
+    position: absolute;
+    top: 50%;
+    bottom: 500%
+    left: 50%;
+    right: 50px
+    transform: translate(-50%, -50%);
+    color:#fff
+  }
+  
+  
+
+  .centrer {
+    text-align: center;
+    color:black
+    font-weight: bold;
+    font-size: 40px;
+    
+  }
+
+ .carre{
+     width: 30px;px;
+     height: 30px;
+ }
+  
+ 
+ 

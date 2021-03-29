@@ -7,10 +7,11 @@
     <meta name="description" content="Site integrée sur la base d'une maquette réalisée par un graphiste.">
     <title>zomentum</title>
     <link rel="shortcut icon" href="images/logo.png" type="image/png">
-    <link rel="stylesheet" href="style.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
     <link href="//db.onlinewebfonts.com/c/9475d6a0b79c164f9f605673714e75d9?family=Circular+Std+Medium" rel="stylesheet" type="text/css"/>
+    <link rel="stylesheet" href="style.css">
 </head>
+
 
 <body>
 
