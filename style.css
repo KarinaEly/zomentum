@@ -62,13 +62,14 @@
 }
 
 .banniere{
-    width: 50px;
-    max-width: 10000px;
-    margin-right: 150px;
-    margin-left:150px;
+
     text-align: center;
 }
 
+.ban-img{
+    width: 1300px ;
+    height: auto;
+}
 
 .texte_centrer {
     position: absolute;
@@ -82,15 +83,26 @@
   
   
 
-  .centrer {
+  .centrer{
     text-align: center;
     color:black
     font-weight: bold;
     font-size: 40px;
     
+  }
 
+    
 
- .triangles1{
-     margin-right: auto;
- }
- 
+.picto{
+    width: 150px;
+    height: auto;
+}
+
+.bg-vert{
+    background-color: #00FF85;
+}
+
+.position-picto{
+    display: flex;
+    justify-content: center;
+}
