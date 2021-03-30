@@ -1,8 +1,21 @@
 @import url(//db.onlinewebfonts.com/c/9475d6a0b79c164f9f605673714e75d9?family=Circular+Std+Medium);
 
+@import url(//db.onlinewebfonts.com/c/961a181da27e7cbc072ec2fb5bbfe2a9?family=Circular+Std+Bold);
+
+@import url(//db.onlinewebfonts.com/c/860c3ec7bbc5da3e97233ccecafe512e?family=Circular+Std+Book);
+
+
 @font-face { font-family: "Circular Std Medium";
     src: url("//db.onlinewebfonts.com/t/9475d6a0b79c164f9f605673714e75d9.eot"); 
     src: url("//db.onlinewebfonts.com/t/9475d6a0b79c164f9f605673714e75d9.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/9475d6a0b79c164f9f605673714e75d9.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/9475d6a0b79c164f9f605673714e75d9.woff") format("woff"), url("//db.onlinewebfonts.com/t/9475d6a0b79c164f9f605673714e75d9.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/9475d6a0b79c164f9f605673714e75d9.svg#Circular Std Medium") format("svg"); }
+
+@font-face {font-family: "Circular Std Bold"; 
+    src: url("//db.onlinewebfonts.com/t/961a181da27e7cbc072ec2fb5bbfe2a9.eot"); 
+    src: url("//db.onlinewebfonts.com/t/961a181da27e7cbc072ec2fb5bbfe2a9.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/961a181da27e7cbc072ec2fb5bbfe2a9.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/961a181da27e7cbc072ec2fb5bbfe2a9.woff") format("woff"), url("//db.onlinewebfonts.com/t/961a181da27e7cbc072ec2fb5bbfe2a9.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/961a181da27e7cbc072ec2fb5bbfe2a9.svg#Circular Std Bold") format("svg"); }
+
+    @font-face {font-family: "Circular Std Book";
+     src: url("//db.onlinewebfonts.com/t/860c3ec7bbc5da3e97233ccecafe512e.eot"); 
+     src: url("//db.onlinewebfonts.com/t/860c3ec7bbc5da3e97233ccecafe512e.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/860c3ec7bbc5da3e97233ccecafe512e.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/860c3ec7bbc5da3e97233ccecafe512e.woff") format("woff"), url("//db.onlinewebfonts.com/t/860c3ec7bbc5da3e97233ccecafe512e.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/860c3ec7bbc5da3e97233ccecafe512e.svg#Circular Std Book") format("svg"); }
     
 .links{
     font-family: "Circular Std Medium";
@@ -64,6 +77,11 @@
 .banniere{
 
     text-align: center;
+    background-image: url("images/banniere.png");
+    height:80vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 .ban-img{
@@ -71,24 +89,23 @@
     height: auto;
 }
 
-.texte_centrer {
-    position: absolute;
-    top: 50%;
-    bottom: 50%
-    center:auto
-    right: 50px
-    transform: translate(-50%, -50%);
+.texte-centrer{
     color:#ffff;
-  }
-  
-  
+    top: 25%; 
+    margin: auto;
+    position: absolute;
+    left: 0;
+    right: 0;
+    
+} 
+   
 
   .centrer{
-    text-align: center;
-    color:black
-    font-weight: bold;
     font-size: 40px;
-    
+    color: black;
+    text-align: center;
+    font-family: "Circular Std Medium"
+     
   }
 
     
@@ -113,4 +130,47 @@
 
 .margin-picto{
     padding-right: 50px;
+}
+
+#button{
+    color: white;
+    background-color: black;
+    font-family: "Circular Std Bold"; 
+    font-size: 16px;
+    padding:10px 20px 10px 20px;
+    border:none;
+    
+}
+
+.business{
+    font-size: 48px;
+    font-family: "Circular Std Bold";
+    
+}
+
+.partners{
+    font-size:16px;
+    font-family: "Circular Std Book";
+
+}
+
+.triangles1{
+    float: right;
+}
+
+.triangles2{
+    position: static;
+    bottom: 300px;
+    
+}
+
+.channel{
+    font-size: 28px;
+    font-family: "Circular Std Bold";
+
+}
+
+.sales{
+    font-size: 16px;
+    font-family: "Circular Std Book";
 }
