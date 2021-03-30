@@ -30,15 +30,16 @@
 
 <div class="bg-vert position-picto">
 
-<div>
+<div class="margin-picto">
   <img src="images/rond1-removebg.png" class="picto" alt="pictogramme"> <p> Be a part of the only All-ine-One<br> platform for IT services</p></div>
-<div>
+<div class="margin-picto">
   <img src="images/rond2-removebg.png" class="picto" alt="pictogramme loupe"><p>Come closer to finding your<br> next customer</p></div>
-<div>
+<divclass="margin-picto" >
 <img src="images/rond3-removebg.png" class="picto" alt="pictogramme statistique"><p>Grow your business with a<br> single click</p></div>
 </div>
 
 
+<div class="centrer">
 
 <p class="flotte">
  <img src="images/homme-vue.png" alt="homme avec une longue vue" />
