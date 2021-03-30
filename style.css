@@ -96,13 +96,15 @@
 .picto{
     width: 150px;
     height: auto;
+    
 }
 
 .bg-vert{
-    background-color: #00FF85;
+    background-color: rgb(0, 255, 133, 0.1);
 }
 
 .position-picto{
     display: flex;
-    justify-content: center;
+    justify-content: center; 
+    justify-content: space-between;
 }
