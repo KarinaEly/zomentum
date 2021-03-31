@@ -18,14 +18,18 @@
    
 </div> 
 
-<!--triangles vert droite-->
+<!--backgroung color picto-->
+
+<div class="bg-vert position-picto">
+
+  <!--triangles vert droite-->
 
 <div class="triangles1">
   <img src="images/triangles-removebg.png" alt="image trangles vert">
   
 </div>
 
-<!--texte centrer-->
+  <!--texte centrer-->
 
 <div class="centrer">
   
@@ -33,22 +37,25 @@
 
 </div>
 
-<div class="bg-vert position-picto">
 
-<!--pictogrammes rond-->
+  <!--pictogrammes rond-->
 
 <div class="margin-picto">
-  <img src="images/rond1-removebg.png" class="picto" alt="pictogramme"> <p> Be a part of the only All-ine-One<br> platform for IT services</p></div>
+  <img src="images/rond1-removebg.png" class="picto" alt="pictogramme"> <p> Be a part of the only All-ine-One<br> platform for IT services</p>
+</div>
 <div class="margin-picto">
-  <img src="images/rond2-removebg.png" class="picto" alt="pictogramme loupe"><p>Come closer to finding your<br> next customer</p></div>
+  <img src="images/rond2-removebg.png" class="picto" alt="pictogramme loupe"><p>Come closer to finding your<br> next customer</p>
+</div>
 <div class="margin-picto" >
-<img src="images/rond3-removebg.png" class="picto" alt="pictogramme statistique"><p>Grow your business with a<br> single click</p></div>
+    <img src="images/rond3-removebg.png" class="picto" alt="pictogramme statistique"><p>Grow your business with a<br> single click</p>
+  </div>
+</div>
+<div class="triangles2">
+    <img src="images/triangles-removebg.png" alt="image trangles vert">
+
 </div>
 
-<div class="triangles2">
-  <img src="images/triangles-removebg.png" alt="image trangles vert">
-  
-</div>
+
 
 <!--1ère illustartion-->
 
