@@ -1,8 +1,8 @@
    
 <!--footer-->
 <div class="bg-footer">
-    <div class="conteneur">
-        <div class="links-footer">
+    <div class="conteneur" >
+        <div class="links-footer" >
             <p>Product</p>
             <a href="">Features</a>
             <a href="">Pricing</a>
@@ -36,11 +36,9 @@
         </div>
         
     </div>
-    <div class="conteneur" >
-        <div class="copyright">
+    <div class="conteneur2" >
             <p>@2020 Pactora Inc. All rights reserved.</p>
-            <p>Follow us on social</p>
-        </div>
+            <p id="social"><a href="">Follow us on social</a></p>
     </div>
 </div>
     

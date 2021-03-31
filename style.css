@@ -44,34 +44,55 @@
     margin-left: 50px;
     max-width: 1150px;
 }
-
 .bg-footer{
     background-color: #000000 ;
     color: #fff;
-    padding-top: 80px;
-    padding-bottom: 30px;
+    /*padding-top: 80px;
+    padding-bottom: 30px;*/
+    display: flex;
+    flex-direction: column;
+    padding-top: 4%;
+    padding-bottom: 2%;
+    padding: 3% 9%;
 }
 
 .links-footer{
-    display:flex;
+   /* margin: 0 5%;*/
+    font-size: 14px;
+    display: flex;
     flex-direction: column;
-
+   /*margin: 0% 4.5%;*/
+    text-align: left;
 }
-
+.links-footer p{
+    font-family: "Circular Std Medium";
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-family: "Circular Std Book";
+}
+a:hover{
+    color: #2F70FE;
+}
 .conteneur{
-    display:flex;
-    justify-content: space-between;
-    max-width: 936px;
-    margin-right: 150px;
-    margin-left: 150px;
-}
-
-.copyright{
     display: flex;
     justify-content: space-between;
-    padding-top: 40px;
-
-    
+     /*max-width: 936px;*/
+    /*margin-right: 150px;
+    margin-left: 150px;*/
+}
+.conteneur2{
+    display: flex; 
+    padding-top: 2%;
+    /*margin-left: 15%;*/
+}
+.conteneur2 p{
+    font-size: 14px;
+    /*padding-top: 40px*/
+}
+#social{
+    margin-left: 35%;
 }
 
 .banniere{
@@ -156,11 +177,15 @@
 
 .triangles1{
     float: right;
+    width: 120px;
+    height: auto;
 }
 
 .triangles2{
     position: static;
     bottom: 300px;
+    width: 120px;
+    height: auto;
     
 }
 
@@ -173,4 +198,26 @@
 .sales{
     font-size: 16px;
     font-family: "Circular Std Book";
+    width: 100%;
+    text-align:center;
+}
+ @media screen and (max-width: 45rem)
+{
+    .conteneur{
+        flex-direction: column;
+        width: 10rem;
+        margin: auto;
+        row-gap: 1rem;
+    }
+    .conteneur2{
+        flex-direction: column;
+        align-items: center;
+        padding-top: 2rem;
+    }
+    #social{
+        margin-left: 0%;
+    }
+    .links-footer p{
+        font-size: 18px;
+    }
 }
