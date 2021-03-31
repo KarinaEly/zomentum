@@ -20,48 +20,50 @@
 
 <!--backgroung color picto-->
 
-<div class="bg-vert position-picto">
-
-  <!--triangles vert droite-->
+<div class="bg-vert "> 
+<div class="container">
+  <!--triangles vert droite-->  
 
 <div class="triangles1">
   <img src="images/triangles-removebg.png" alt="image trangles vert">
   
-</div>
+</div> 
 
   <!--texte centrer-->
 
 <div class="centrer">
+
   
   <p>List.Sell.Grow</p>
 
 </div>
 
-
-  <!--pictogrammes rond-->
-
-<div class="margin-picto">
-  <img src="images/rond1-removebg.png" class="picto" alt="pictogramme"> <p> Be a part of the only All-ine-One<br> platform for IT services</p>
+<!--pictogrammes rond-->
+<div class="position-picto">
+  <div class="margin-picto">
+    <img src="images/rond1-removebg.png" class="picto" alt="pictogramme"> <p> Be a part of the only All-ine-One<br> platform for IT services</p>
+  </div>
+  <div class="margin-picto">
+    <img src="images/rond2-removebg.png" class="picto" alt="pictogramme loupe"><p>Come closer to finding your<br> next customer</p>
+  </div>
+  <div class="margin-picto" >
+      <img src="images/rond3-removebg.png" class="picto" alt="pictogramme statistique"><p>Grow your business with a<br> single click</p>
+    </div>
+  </div>
+  
 </div>
-<div class="margin-picto">
-  <img src="images/rond2-removebg.png" class="picto" alt="pictogramme loupe"><p>Come closer to finding your<br> next customer</p>
-</div>
-<div class="margin-picto" >
-    <img src="images/rond3-removebg.png" class="picto" alt="pictogramme statistique"><p>Grow your business with a<br> single click</p>
+
+<div class="triangles2">
+      <img src="images/triangles-removebg.png" alt="image trangles vert">
   </div>
 </div>
-<div class="triangles2">
-    <img src="images/triangles-removebg.png" alt="image trangles vert">
+</div> 
 
-</div>
-
-
-
-<!--1ère illustartion-->
+<!--1ère illustartion-->          
 
 <div class="centrer">
 
-<p class="flotte">
+<p class="flotte"> 
  <img class="illustration" src="images/homme-vue.png" alt="homme avec une longue vue" />
 </p>
 <p>

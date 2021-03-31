@@ -139,6 +139,10 @@ a:hover{
 
 .bg-vert{
     background-color: rgb(0, 255, 133, 0.1);
+    padding-top: 60px;
+    padding-bottom: 60px; 
+
+    
 }
 
 .position-picto{
@@ -176,14 +180,16 @@ a:hover{
 }
 
 .triangles1{
-    float: right;
+    display: flex;
+    justify-content: flex-end;
     width: 120px;
     height: auto;
+    
 }
 
 .triangles2{
-    position: static;
-    bottom: 300px;
+    display: flex;
+    justify-content: flex-start;
     width: 120px;
     height: auto;
     
