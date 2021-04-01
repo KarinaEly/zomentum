@@ -10,7 +10,7 @@
     </div>
     
     <div class="partners">
-      <p>Join a vibrant community of MSP's to forge long-lasting relationships with a partners<pre>
+      <p>Join a vibrant community of MSP's to forge long-lasting relationships with a partners<br>
     that help you create excellent customer experiences.</p>
     </div>
     <input id="button"type="button"value="Register today"> 
@@ -23,9 +23,9 @@
 <div class="bg-vert "> 
 <div class="container">
   <!--triangles vert droite-->  
-
+</div>
 <div class="triangles1">
-  <img src="images/triangles-removebg.png" alt="image trangles vert">
+    <img src="images/triangles-removebg.png" alt="image trangles vert">
   
 </div> 
 
@@ -38,8 +38,8 @@
 
 </div>
 
-<!--pictogrammes rond-->
-<div class="position-picto">
+  <!--pictogrammes rond-->
+<div class="position-picto col-12">
   <div class="margin-picto">
     <img src="images/rond1-removebg.png" class="picto" alt="pictogramme"> <p> Be a part of the only All-ine-One<br> platform for IT services</p>
   </div>
@@ -49,90 +49,92 @@
   <div class="margin-picto" >
       <img src="images/rond3-removebg.png" class="picto" alt="pictogramme statistique"><p>Grow your business with a<br> single click</p>
     </div>
-  </div>
-  
-</div>
-
-<div class="triangles2">
+    <div class="triangles2">
       <img src="images/triangles-removebg.png" alt="image trangles vert">
+</div>
   </div>
+
+  </div>
+
+
 </div>
 </div> 
 
 <!--1ère illustartion-->          
 
+
 <div class="centrer">
 
-<p class="flotte"> 
- <img class="illustration" src="images/homme-vue.png" alt="homme avec une longue vue" />
-</p>
-<p>
-    <div class="channel">Your channel program<br> on steroids 
-    </div>
-  <div class="sales">Tired of findinf MSP's that can helps you boost your<br> channel sales? 
+<div class="flotte"> 
+ <img class="illustration" src="images/homme-vue.png" alt="homme avec une longue vue"/>
+<div class="flotte-text">
+    <h5 class="channel">Your channel program<br> on steroids 
+</h5>
+  <p class="sales">Tired of finding MSP's that can helps you boost your<br> channel sales? 
     You're in luck beacause they're all here.
- </div>
-
 </p>
+</div>
+</div>
 
 <!--2ème illustration-->
 
-<p class="flotte">
- <img class="illustration" src="images/homme-plante.png" alt="homme debout" />
-</p>
-<p>
-  <div class="channel">Become the vendor<br> everyone wants to buy from
-  </div>
-  <div class="sales">Gain brand authority and visibility with the help of the<br>
+<div class="flotte">
+
+  <div class="flotte-text">
+    <h5 class="channel">Become the vendor<br> everyone wants to buy from</h5>
+    <p class="sales">Gain brand authority and visibility with the help of the<br>
     largest IT service ecosystem . Find customers who are<br>
-    looking for your solution right now.
+    looking for your solution right now.</p>
   </div>
 
-</p>
+  <img class="illustration" src="images/homme-plante.png" alt="homme debout"/>
+
+</div>
 
 <!--3ème illustration-->
 
-<p class="flotte">
- <img src="images/homme-et-fusée.png" alt="homme et fusée" />
-</p>
-<p>
-<div class="channel">It's like having Your best<br> Salesman on autopilot
-</div>
- <div class="sales">Share collaterals and documents that are<br>automatically branded.
+<div class="flotte"> 
+ <img class="illustration" src="images/homme-et-fusee-2.png" alt="homme et fusée"/>
+<div class="flotte-text">
+    <h5 class="channel">It's like having Your best<br> Salesman on autopilot
+</h5>
+  <p class="sales">Share collaterals and documents that are<br>automatically branded.
     Leverage a rich partner<br> network that sells your solution exactly the way<br> your best salesman would.
- </div>
-
-
 </p>
+</div>
+</div>
 
 <!--4ème illustration-->
 
-<p class="flotte">
- <img src="images/tableau.png" alt="graphique" />
-</p>
-<p>
-  <div class="channel">Track your channel<br> performance
-  </div>
- <div class="sales">Monitor the health and revenue of your channel<br> program and streamline your campaign to win more<br>
-    customers within Zomentum.
- </div>
+<div class="flotte">
 
-</p>
+  <div class="flotte-text">
+    <h5 class="channel">Track your channel<br> performance</h5>
+    <p class="sales">Monitor the health and revenue of your channel<br> program and streamline your campaign to win more<br>
+    customers within Zomentum.</p>
+  </div>
+
+  <img class="illustration" src="images/tableau-3.png" alt="tableau"/>
+
+</div>
+
+
 
 <!--5ème illustration-->
 
-<p class="flotte">
- <img src="images/croix.png" alt="#" />
-</p>
-<p>
-<div class="channel">Get The Best version of<br> Your sales playbook
-</div>
-  <div class="sales">Gather insights about top channel sellers and find<br>
+
+<div class="centrer">
+
+<div class="flotte"> 
+ <img class="illustration" src="images/croix-2.png" alt="homme avec une longue vue"/>
+<div class="flotte-text">
+    <h5 class="channel">Get The Best version of<br> Your sales playbook
+</h5>
+  <p class="sales">Gather insights about top channel sellers and find<br>
     out what pitch and collaterals ensure maximum<br> profitability. Win happy customers with an<br> optimized sales playbook.
- </div>
-
-
 </p>
+</div>
+</div>
 
 
 <?php include "footer.php" ; ?>
