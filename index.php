@@ -26,7 +26,7 @@
       <p>List.Sell.Grow</p>
     </div>
       <!--pictogrammes rond-->
-    <div class="position-picto col-12">
+    <div class="position-picto ">
       <div class="margin-picto">
         <img src="images/rond1-removebg.png" class="picto" alt="pictogramme"> <p> Be a part of the only All-ine-One<br> platform for IT services</p>
       </div>
@@ -42,6 +42,9 @@
     </div>
   </div>
 </div>
+
+
+ <!--Les llustartions-->  
 
 <div class="container">
   <!--1ère illustartion-->          
@@ -64,6 +67,7 @@
       <p class="sales padding-illustration">Gain brand authority and visibility with the help of the<br>
       largest IT service ecosystem . Find customers who are<br>
       looking for your solution right now.</p>
+      <a class="signup" href="#">Signup now <img src="images/arrow.png" alt="lien pour souscrire"></a>
     </div>
     <div>
       <img class="illustration" src="images/homme-plante.png" alt="homme debout"/>
@@ -81,6 +85,7 @@
       <p class="sales padding-illustration">Share collaterals and documents that are<br>automatically branded.
       Leverage a rich partner<br> network that sells your solution exactly the way<br> your best salesman would.
       </p>
+      <a class="signup" href="#">Signup now <img src="images/arrow.png" alt="lien pour souscrire"></a>
     </div>
   </div>
 
@@ -91,6 +96,7 @@
       <h5 class="channel">Track your channel<br> performance</h5>
       <p class="sales padding-illustration">Monitor the health and revenue of your channel<br> program and streamline your campaign to win more<br>
       customers within Zomentum.</p>
+      <a class="signup" href="#">Signup now <img src="images/arrow.png" alt="lien pour souscrire"></a>
     </div>
     <div>
       <img class="illustration" src="images/tableau-3.png" alt="tableau"/>
@@ -107,6 +113,7 @@
       <h5 class="channel">Get The Best version of<br> Your sales playbook</h5>
       <p class="sales padding-illustration">Gather insights about top channel sellers and find<br>
       out what pitch and collaterals ensure maximum<br> profitability. Win happy customers with an<br> optimized sales playbook.</p>
+      <a class="signup" href="#">Signup now <img src="images/arrow.png" alt="lien pour souscrire"></a>
     </div>
   </div>
 </div>

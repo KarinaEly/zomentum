@@ -14,10 +14,8 @@
     <link href="//db.onlinewebfonts.com/c/860c3ec7bbc5da3e97233ccecafe512e?family=Circular+Std+Book" rel="stylesheet" type="text/css"/>
 </head>
 
-
 <body>
-
-<div> 
+<div class="container"> 
     <nav class="navbar navbar-expand-lg navbar-light ">
         <div class="container-fluid">
             <a class="navbar-brand" href="index.php"><img src="images/logo.png" alt="logo"></a>
