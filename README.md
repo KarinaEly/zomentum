@@ -1,2 +1,2 @@
 # zomentum
-Intégration réalisée sur la base d'une maquette conçut par un graphiste professionnelle.
+Intégration réalisée sur la base d'une maquette conçue par un graphiste professionnel.
