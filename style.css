@@ -16,7 +16,58 @@
     @font-face {font-family: "Circular Std Book";
      src: url("//db.onlinewebfonts.com/t/860c3ec7bbc5da3e97233ccecafe512e.eot"); 
      src: url("//db.onlinewebfonts.com/t/860c3ec7bbc5da3e97233ccecafe512e.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/860c3ec7bbc5da3e97233ccecafe512e.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/860c3ec7bbc5da3e97233ccecafe512e.woff") format("woff"), url("//db.onlinewebfonts.com/t/860c3ec7bbc5da3e97233ccecafe512e.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/860c3ec7bbc5da3e97233ccecafe512e.svg#Circular Std Book") format("svg"); }
+
     
+
+
+/* NAVBAR */ 
+
+/* BANNIERE  */
+
+/* PICTOGRAMMES  */
+
+.centrer{
+    font-size: 40px; 
+    color: black;
+    text-align: center;
+    font-family: "Circular Std Medium";
+}
+
+/* ILLUSTRATIONS */
+
+
+
+.illustration-text{
+    font-size: 40px; 
+    color: black;
+    font-family: "Circular Std Medium";
+}
+
+.position-illustration-reverse{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+}
+
+.position-illustration{
+    display: flex;
+    justify-content: space-around;
+}
+
+.padding-illustration{
+    padding-top: 10px;
+}
+
+.margin-illustrations{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+/* FOOTER  */
+
+
+
+
 .links{
     font-family: "Circular Std Medium";
     color: #000C2D!important;
@@ -83,7 +134,7 @@ a{
     font-family: "Circular Std Book";
 }
 a:hover{
-    color: #2F70FE;
+    color: wheat;
 }
 .conteneur{
     display: flex;
@@ -134,14 +185,6 @@ a:hover{
 } 
    
 
-  .centrer{
-    font-size: 40px; 
-    color: black;
-    text-align: center;
-    font-family: "Circular Std Medium";
-
-  }
-
     
 .picto{
     width: 150px;
@@ -191,10 +234,8 @@ a:hover{
 
 .triangles1{  
     /*float: right;*/
-    position: absolute;
-    right:5%;
-    width: 120px;
-    height: auto;
+    display: flex;
+    justify-content: flex-end;
 }
  
     
@@ -205,9 +246,6 @@ a:hover{
     width: 120px;
     height: auto;*/
     /*padding-top: 10px;*/
-    position: absolute;
-    left: 0;
-    bottom: 0;
 }
 .channel{
     font-size: 28px;
@@ -218,9 +256,8 @@ a:hover{
     font-size: 16px;
     font-family: "Circular Std Book";
     width: 100%;
-    text-align:center;
-
 }
+
 @media screen and (max-width: 50rem)
 {
     .triangles1, .triangles2{
@@ -258,6 +295,7 @@ a:hover{
     .illustration{
         width: 100%;
         height: auto;
+
     }
     {
         order:1;
